@@ -271,7 +271,7 @@ function currentSlide(n) {
 //Get link share News
 function shareNews(){
     
-    var copyLinkShare = "https://tinhoc-congvu.github.io/course.html?id=" + idNews;
+    var copyLinkShare = "https://tinhoc-vivu.github.io/course.html?id=" + idNews;
         
     // Copy link to clipboard
     navigator.clipboard.writeText(copyLinkShare);
