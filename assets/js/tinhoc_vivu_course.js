@@ -799,7 +799,7 @@ function renderListLesson(dataRender){
     
                                 htmlFooter = htmlFooter
                                 + "<span style=\"font-size: 2rem; font-weight: bold; color: #000000\">"
-                                + "Tin học"
+                                + "Tin Học"
                                 + "</span>&nbsp;"
                                 + "<span style=\"font-size: 2rem; font-weight: bold; color: #2717F1\">"
                                 + "Vi Vu"
