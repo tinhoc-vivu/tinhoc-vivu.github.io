@@ -802,7 +802,7 @@ function renderListLesson(dataRender){
                                 + "Tin học"
                                 + "</span>&nbsp;"
                                 + "<span style=\"font-size: 2rem; font-weight: bold; color: #2717F1\">"
-                                + "Công Vũ"
+                                + "Vi Vu"
                                 + "</span>";
     
     document.getElementById("rowRenderTitle").innerHTML = htmlTitleCourse;
